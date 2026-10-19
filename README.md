@@ -2,9 +2,10 @@
 
 AI study and engineering project assistant for students.
 
-Live demo:https://eduforge-ai-delta.vercel.app/
+**Live demo:** https://eduforge-ai-delta.vercel.app/
 
 ## Features
+
 - Explains concepts and solves problems step by step
 - Helps with programming and debugging
 - Supports engineering project planning and exam preparation
@@ -12,8 +13,17 @@ Live demo:https://eduforge-ai-delta.vercel.app/
 - Formats replies with Markdown
 
 ## Tech Stack
+
 Next.js, React, TypeScript, Tailwind CSS, Google Gemini API, Vercel
 
 ## Run Locally
+
 1. Clone the repo and run `npm install`
-2. Create `.env.local`:
+2. Create a file named `.env.local` with:
+
+```
+GEMINI_API_KEY=your_key
+GEMINI_MODEL=gemini-3.8-flash
+```
+
+3. Run `npm run dev` and open http://localhost:3000
