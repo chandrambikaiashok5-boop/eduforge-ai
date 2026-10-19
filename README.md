@@ -2,7 +2,7 @@
 
 AI study and engineering project assistant for students.
 
-**Live demo:**https://eduforge-ai-delta.vercel.app/
+Live demo:https://eduforge-ai-delta.vercel.app/
 
 ## Features
 - Explains concepts and solves problems step by step
