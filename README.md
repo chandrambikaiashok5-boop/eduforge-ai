@@ -27,3 +27,5 @@ GEMINI_MODEL=gemini-3.8-flash
 ```
 
 3. Run `npm run dev` and open http://localhost:3000
+# ZenChat
+   ![ZenChat screenshot](public/zenchat.png)
